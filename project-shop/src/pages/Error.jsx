@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export const Error = () => {
     return (
-        <div style={{ display: 'flex', minHeight: '100vh', justifyContent: 'center', alignItems: 'center' }}>
+        <div style={{ display: 'flex', minHeight: '90vh', justifyContent: 'center', alignItems: 'center' }}>
             <Result
                 status="404"
                 title="404"
